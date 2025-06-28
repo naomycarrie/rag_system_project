@@ -86,7 +86,3 @@ O sistema será inicializado e você poderá digitar suas perguntas no terminal.
 
 Sinta-se à vontade para contribuir com este projeto. Você pode abrir issues para relatar bugs ou sugerir melhorias, ou enviar pull requests com novas funcionalidades ou correções.
 
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
